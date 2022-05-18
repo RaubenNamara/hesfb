@@ -1,0 +1,23 @@
+                    h1 {
+                    color: royalblue;
+                    font: normal;
+                    text-align: center;
+                }
+                
+                h3 {
+                    color: dodgerblue;
+                    font-size: larger;
+                }
+                
+                body {
+                    background-color: burlywood;
+                    font-size: x-large;
+                    text-align: center;
+                    overflow: hidden;
+                    text-decoration-style: double;
+                }
+                
+                a {
+                    text-decoration: none;
+                    font-size: x-large;
+                    align-content: center;

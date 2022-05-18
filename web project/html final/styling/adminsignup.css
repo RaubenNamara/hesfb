@@ -1,0 +1,31 @@
+h2 {
+    color: royalblue;
+    font: normal;
+    text-align: center;
+}
+
+body {
+    background-color: burlywood;
+    text-align: justify;
+    font-size: x-large;
+}
+
+.login-page {
+    border-radius: 2px;
+    border-radius: 10px;
+    width: 400px;
+    height: 550px;
+    background-color: cadetblue;
+    color: darkblue;
+    margin-left: 30%;
+    margin-right: 30%;
+    font-size: medium;
+    text-align: center;
+    border-style: hidden;
+    overflow: hidden;
+}
+
+.footer {
+    text-align: center;
+    k
+}

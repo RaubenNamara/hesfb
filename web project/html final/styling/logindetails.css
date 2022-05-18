@@ -1,0 +1,39 @@
+#enroll {
+    color: green;
+}
+
+#login-page {
+    align-content: center;
+    border: 2px white;
+    border-radius: 10px;
+    width: 400px;
+    height: 280px;
+    background-color: cadetblue;
+    color: red;
+    margin-left: 30%;
+    margin-right: 30%;
+    font-size: medium;
+}
+
+.login-page {
+    align-content: center;
+    border: 2px white;
+    border-radius: 10px;
+    width: 400px;
+    height: 280px;
+    background-color: bisque;
+    color: red;
+    margin-left: 30%;
+    margin-right: 30%;
+    font-size: medium;
+}
+
+body {
+    background-color: burlywood;
+    text-align: center;
+    font-size: x-large;
+}
+
+a {
+    text-decoration: none;
+}
